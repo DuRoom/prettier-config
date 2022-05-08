@@ -1,0 +1,25 @@
+{
+  "name": "@duroom/prettier-config",
+  "version": "1.0.0",
+  "description": "DuRoom's configuration for the Prettier code formatter.",
+  "main": "prettierrc.json",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DuRoom/prettier-config.git"
+  },
+  "keywords": [
+    "duroom"
+  ],
+  "author": "NKDuy",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/DuRoom/prettier-config/issues"
+  },
+  "homepage": "https://github.com/DuRoom/prettier-config#readme",
+  "publishConfig": {
+    "access": "public"
+  }
+}
